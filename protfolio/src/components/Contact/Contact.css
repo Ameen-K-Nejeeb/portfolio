@@ -96,3 +96,7 @@
     margin-bottom: 50px;
     cursor: pointer;
 }
+.contect-submit:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
