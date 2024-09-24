@@ -52,3 +52,11 @@
     font-size: 24px;
     font-weight: 500;
 }
+.about-skill hr{
+    outline: none;
+    border: none;
+    width: 50px;
+    height: 8px;
+    border-radius: 50px;
+    background: linear-gradient(264deg,#DA7C25 -5.09%,#B923E1 102.06% );
+}
