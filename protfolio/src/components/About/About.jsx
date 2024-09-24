@@ -16,6 +16,7 @@ const About = () => {
                 <img src={profile} alt="" />
             </div>
 
+
             <div className="about-right">
                 <div className="about-para">
                     <p>I am experienced Frontend and Backend development with over decade of professional in the final time</p>
@@ -24,17 +25,41 @@ const About = () => {
                 <div className="about-skills">
                     <div className="about-skill">
                         <p>HTML & CSS</p> <hr style={{width:"50%"}} />
-                        <p>HTML & CSS</p> <hr style={{width:"50%"}} />
-                        <p>HTML & CSS</p> <hr style={{width:"50%"}} />
-                        <p>HTML & CSS</p> <hr style={{width:"50%"}} />
+                        <p>React JS</p> <hr style={{width:"35%"}} />
+                        <p>JavaScript</p> <hr style={{width:"30%"}} />
+                        <p>Python</p> <hr style={{width:"45%"}} />
+                        <p>Django</p> <hr style={{width:"45%"}} />
                         
                     </div>
                 </div>
 
             </div>
-        
         </div>
-      
+
+
+    <div className="about-achievements">
+        <div className="about-achievement">
+            <h1>10+</h1>
+            <p>YEARS</p>
+        </div>
+
+        <hr />
+
+        <div className="about-achievement">
+            <h1>19+</h1>
+            <p>PROJECTS COMPLETED</p>
+        </div>
+
+        <hr />
+
+        <div className="about-achievement">
+            <h1>2+</h1>
+            <p>HAPPY CLIENTS</p>
+        </div>
+
+    </div>
+
+
     </div>
   )
 }
