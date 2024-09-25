@@ -7,6 +7,7 @@ import call from '../../assets/call_icon.svg'
 
 const Contact = () => {
   return (
+    
     <div className='contact'>
 
         <div className="contact-title">
