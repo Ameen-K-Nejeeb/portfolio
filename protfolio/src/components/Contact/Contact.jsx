@@ -29,7 +29,7 @@ const Contact = () => {
         }).then((res) => res.json());
     
         if (res.success) {
-          console.log("Success", res);
+          alert(res.message)
         }
       };
 
