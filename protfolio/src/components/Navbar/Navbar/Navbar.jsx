@@ -1,10 +1,11 @@
 import React from 'react'
 import './Navbar.css'
+import ameen from '../../../assets/AMEENn.png'
 
 const Navbar = () => {
   return (
     <div className='Navbar'>
-
+      <img src={ameen} alt="" />
       <ul className="nav-menu">
         <li>Home</li>
         <li>About</li>
