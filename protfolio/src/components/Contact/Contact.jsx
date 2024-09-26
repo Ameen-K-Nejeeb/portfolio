@@ -42,19 +42,19 @@ const Contact = () => {
     <div id='contact' className='contact'>
 
         <div className="contact-title">
-            <h1>Get in touch</h1>
+            <h1>Contact Me</h1>
             <img src={theme} alt="" />
         </div>
         <div className="contact-section">
             <div className="contact-left">
                 <h1>Let's talk</h1>
-                <p> way to organize longer pieces of writing, and they help readers understand the structure of an essay and its main points.</p>
+                <p> I’m always excited to connect with like-minded individuals and collaborate on new ideas. Whether you have a project in mind, need some advice, or just want to chat about tech, feel free to reach out. Let's make something great together!</p>
                 <div className="contact-details">
                     <div className="contact-detail">
-                        <img src={mail} alt="" /><p>ameenameen987@gmail.com</p>
+                        <img src={mail} alt="" /><p>ameenknejeeb8701@gmail.com</p>
                     </div>
                     <div className="contact-detail">
-                        <img src={call} alt="" /><p>654654654</p>
+                        <img src={call} alt="" /><p>Reach Me Online</p>
                     </div>
                     <div className="contact-detail">
                         <img src={location} alt="" /><p>kerala</p>
