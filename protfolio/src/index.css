@@ -1,4 +1,4 @@
-*{
+{menu=="home"?<img src={underline} alt='' /> : <></>}*{
     margin: 0;
     padding: 0;
 }
