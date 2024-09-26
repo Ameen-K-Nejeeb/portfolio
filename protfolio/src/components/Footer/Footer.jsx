@@ -23,7 +23,7 @@ const Footer = () => {
 
       <hr />
       <div className="footer-bottom">
-        <div className="footer-bottom-left">2023 Ameen k Nejeeb. All rights reserved.</div>
+        <div className="footer-bottom-left">2024 Ameen k Nejeeb. All rights reserved.</div>
         <div className="footer-bottom-right">
           <p>Term of Services</p>
           <p>Privacy policy</p>

@@ -4,6 +4,10 @@ import theme from '../../assets/theme_pattern.svg'
 import mail from '../../assets/mail_icon.svg'
 import location from '../../assets/location_icon.svg'
 import call from '../../assets/call_icon.svg'
+import insta from '../../assets/instagram-svgrepo-com.svg'
+import facebook from '../../assets/facebook-svgrepo-com (2).svg'
+import Github from '../../assets/github-logo-svgrepo-com.svg'
+import Linkdin from '../../assets/linkedin-svgrepo-com (1).svg'
 
 const Contact = () => {
 
@@ -56,6 +60,24 @@ const Contact = () => {
                     <div className="contact-detail">
                         <img src={call} alt="" /><p>Reach Me Online</p>
                     </div>
+
+
+                    <div className="contact-detail">
+                    <div className="social">
+                        <img className='log' src={insta} alt="" /><p></p>
+                    </div>
+                    <div className="social">
+                        <img className='log' src={facebook} alt="" /><p></p>
+                    </div>
+                    <div className="social">
+                        <img className='log' src={Github} alt="" /><p></p>
+                    </div>
+                    <div className="social">
+                        <img className='log' src={Linkdin} alt="" /><p></p>
+                    </div>
+                    </div>
+
+
                     <div className="contact-detail">
                         <img src={location} alt="" /><p>kerala</p>
                     </div>
