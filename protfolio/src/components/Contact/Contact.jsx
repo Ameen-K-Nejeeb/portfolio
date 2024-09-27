@@ -64,17 +64,26 @@ const Contact = () => {
 
                     <div className="contact-detail">
                     <div className="social">
-                        <img className='log' src={insta} alt="" /><p></p>
+                        <a href="https://www.instagram.com/its._me._ameen/" target="_blank" rel="noopener noreferrer">
+                           <img   src={insta} alt=""  /><p></p>
+                        </a>
                     </div>
                     <div className="social">
-                        <img className='log' src={facebook} alt="" /><p></p>
+                        <a href="https://www.facebook.com/ameen.amee.5851" target="_blank" rel="noopener noreferrer">
+                           <img   src={facebook} alt=""  /><p></p>
+                        </a>
                     </div>
                     <div className="social">
-                        <img className='log' src={Github} alt="" /><p></p>
+                        <a href="https://github.com/DUDEamee" target="_blank" rel="noopener noreferrer">
+                           <img   src={Github} alt=""  /><p></p>
+                        </a>
                     </div>
                     <div className="social">
-                        <img className='log' src={Linkdin} alt="" /><p></p>
+                        <a href="https://www.linkedin.com/in/ameen-k-nejeeb-002167284/" target="_blank" rel="noopener noreferrer">
+                           <img   src={Linkdin} alt=""  /><p></p>
+                        </a>
                     </div>
+                    
                     </div>
 
 
