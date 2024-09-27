@@ -1,4 +1,4 @@
-import project1_img from '../assets/project_1.svg'
+import project1_img from '../assets/olxx.png'
 import project2_img from '../assets/project_2.svg'
 import project3_img from '../assets/project_3.svg'
 import project4_img from '../assets/project_4.svg'
@@ -21,7 +21,7 @@ const mywork_data = [
         w_name:"Web design",
         w_img:project3_img
     },
-    {
+    /*{
         w_no:4,
         w_name:"Web design",
         w_img:project4_img
@@ -35,7 +35,7 @@ const mywork_data = [
         w_no:6,
         w_name:"Web design",
         w_img:project6_img
-    },
+    },*/
 ]
  
 export default mywork_data;
