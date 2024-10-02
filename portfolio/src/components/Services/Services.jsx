@@ -9,7 +9,7 @@ const Services = () => {
     <div id='services' className='services'>
 
         <div className="services-title">
-            <h2>My Services</h2>
+            <h1>My Services</h1>
             <img src={theme} alt="" />
         </div>
 
