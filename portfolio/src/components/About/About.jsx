@@ -20,7 +20,7 @@ const About = () => {
             <div className="about-right">
                 <div className="about-para">
                     <p>I am experienced Frontend and Backend development with over decade of professional in the final time</p>
-                    <p>Hi, I'm Ameen, a 17-year-old tech enthusiast passionate about Python, machine learning, and AI. I love creating simple, impactful projects and experimenting with new technologies. Outside of coding, I’m dedicated to fitness, balancing my intellectual and physical growth. Welcome to my site, where I share my journey in tech and beyond!
+                    <p>Hi, I'm Ameen, a 17-year-old tech enthusiast passionate about Python, machine learning, and AI. I love creating simple, impactful projects and experimenting with new technologies. Outside of coding, I’m dedicated to fitness,,Body Bulding, balancing my intellectual and physical growth. Welcome to my site, where I share my journey in tech and beyond!
 
 </p>
                 </div>
