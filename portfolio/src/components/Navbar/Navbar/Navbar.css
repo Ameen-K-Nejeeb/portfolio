@@ -41,7 +41,7 @@
 .nav-mob-open{
     display: none;
 }
-@media(max-width:768px){
+@media(max-width:432px){
     .Navbar{
         margin: 20px 50px;
     }
@@ -51,7 +51,7 @@
     .nav-mob-open{
         display: block;
         position: fixed;
-        right: 150px;
+        right: 20px;
     }
     .nav-mob-close{
         display: block;
@@ -71,7 +71,7 @@
         height: 100%;
         z-index: 2;
         transition:right 0.5s;
-        right: -350px;
+        right: -550px;
     }
     .nav-menu li{
         font-size: 30px;
