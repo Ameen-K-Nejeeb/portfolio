@@ -51,14 +51,14 @@
 .hero-resume{
     border-color: #B923E1;
 }
-@media(max-width:764px){
+@media(max-width:768px){
     .hero img{
         margin-top: 120px;
         width: 260px;
     }
     .hero h1{
         margin-top: 50px;
-        width: 90%;
+        width: 89%;
         font-size: 50px;       
     }
     .hero p{

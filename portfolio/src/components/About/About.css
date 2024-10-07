@@ -62,9 +62,10 @@
 }
 .about-achievements{
     display: flex;
-    width: 100%;
+    width: 90%;
     justify-content: space-around;
     margin-bottom: 80px;
+    align-items: center;
 }
 .about-achievement{
     display: flex;

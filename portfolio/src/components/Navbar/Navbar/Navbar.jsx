@@ -16,7 +16,7 @@ const Navbar = () => {
     menuRef.current.style.right="0";
   }
   const close_Menu = ()=> {
-    menuRef.current.style.right="-350px";
+    menuRef.current.style.right="-850px";
   }
 
   return (

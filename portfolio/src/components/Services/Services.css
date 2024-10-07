@@ -67,7 +67,7 @@
     transform: scale(1.05);
     transition: 0.4s;
 }
-@media(max-width:760px){
+@media(max-width:768px){
     .services{
         align-items: start;
         gap: 70px;
@@ -76,6 +76,7 @@
     .services-title h1{
         padding: 0;
         font-size: 50px;
+        
     }
     .services-title img{
         width: 130px;
@@ -99,5 +100,6 @@
     .services-container{
         grid-template-columns:1fr;
         gap: 30px;
+        
     }
 }
