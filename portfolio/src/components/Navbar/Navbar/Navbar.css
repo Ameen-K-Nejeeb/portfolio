@@ -80,3 +80,42 @@
         gap: 2px;
     }
 }
+
+@media(max-width:1024px){
+
+    .Navbar{
+        margin: 30px 100px;
+    }
+    .nav-mob-open{
+        display: block;
+        position: fixed;
+        right: 150px;
+        width: 50px;
+    }
+    .nav-mob-close{
+        display: block;
+        position: relative;
+        top: 35px;
+        left: 300px;
+        width: 40px;
+    }
+    .nav-menu{
+        position: fixed;
+        flex-direction: column;
+        align-items: start;
+        top: 0;
+        gap: 30px;
+        background-color: #1F0016;
+        width: 500px;
+        height: 100%;
+        z-index: 2;
+        transition:right 0.5s;
+        right: -550px;
+    }
+    .nav-menu li{
+        font-size: 40px;
+        padding-left: 50px;
+        flex-direction: row;
+        gap: 5px;
+    }
+}
