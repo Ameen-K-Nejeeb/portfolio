@@ -33,10 +33,9 @@ const Contact = () => {
         }).then((res) => res.json());
     
         if (res.success) {
-          alert(res.message)
+          console.log("Success", res);
         }
       };
-
 
 
 
