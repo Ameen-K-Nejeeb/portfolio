@@ -222,7 +222,7 @@
         margin-right: -20px;
     }
     .contact-section{
-        flex-direction: column;
+        flex-direction: row;
     }
     .contact-left h1{
         font-size: 57px;
@@ -242,6 +242,7 @@
     .contact-right input{
         width: 100%;
         font-size: 20px;
+        
 
     }
     .contact-right textarea{

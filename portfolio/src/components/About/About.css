@@ -289,3 +289,6 @@
         font-size: 16px;
     }
 }
+.about-left{
+    display: none;
+}
