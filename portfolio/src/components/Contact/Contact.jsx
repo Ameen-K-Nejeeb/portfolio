@@ -73,7 +73,7 @@ const Contact = () => {
                         </a>
                     </div>
                     <div className="social">
-                        <a href="https://github.com/DUDEamee" target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/Ameen-K-Nejeeb" target="_blank" rel="noopener noreferrer">
                            <img   src={Github} alt=""  /><p></p>
                         </a>
                     </div>
