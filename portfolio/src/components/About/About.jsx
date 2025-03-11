@@ -20,7 +20,9 @@ const About = () => {
             <div className="about-right">
                 <div className="about-para">
                     <p>I am experienced Frontend and Backend development with over decade of professional in the final time</p>
-                    <p>Hi, I'm Ameen, a 17-year-old tech enthusiast passionate about Python, machine learning, and AI. I love creating simple, impactful projects and experimenting with new technologies. Outside of coding, I’m dedicated to fitness,,Body Bulding, balancing my intellectual and physical growth. Welcome to my site, where I share my journey in tech and beyond!
+                    <p>I am Ameen K Nejeeb, a passionate and self-driven developer with a strong focus on Python, machine learning, and web development. With experience in building projects using React, Django, and other modern technologies, I love transforming ideas into functional applications. My journey in tech started with curiosity, and over time, I have worked on various projects, from personal websites to AI-based applications. I am always eager to learn new technologies and refine my problem-solving skills while staying up to date with the latest trends in the tech world.
+
+Beyond coding, I am deeply committed to fitness and bodybuilding, maintaining a disciplined workout routine to push my limits both mentally and physically. I believe that the same dedication and consistency required for building strength apply to coding—continuous improvement and persistence lead to mastery. I also enjoy participating in tech competitions, innovation challenges, and sports like shot put. My goal is to create impactful solutions that merge technology with real-world applications while also inspiring others to pursue both intellectual and physical excellence.
 
 </p>
                 </div>
