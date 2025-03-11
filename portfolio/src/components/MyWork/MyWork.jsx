@@ -1,4 +1,4 @@
-import React from 'react'
+/*import React from 'react'
 import './MyWork.css'
 import theme from '../../assets/theme_pattern.svg'
 import mywork_data from '../../assets/mywork_data'
@@ -29,3 +29,4 @@ const MyWork = () => {
 }
 
 export default MyWork
+*/

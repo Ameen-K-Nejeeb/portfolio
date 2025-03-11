@@ -3,7 +3,7 @@ import Navbar from './components/Navbar/Navbar/Navbar'
 import Hero from './components/Navbar/Hero/Hero'
 import About from './components/About/About'
 import Services from './components/Services/Services'
-import MyWork from './components/MyWork/MyWork'
+//import MyWork from './components/MyWork/MyWork'
 import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
 
@@ -15,7 +15,7 @@ const App = () => {
       <Hero/>
       <About/>
       <Services/>
-      <MyWork/>
+      
       <Contact/>
       <Footer/>
     </div>
