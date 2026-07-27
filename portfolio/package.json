@@ -1,8 +1,9 @@
-{
-  "homepage": "https://ameenknejeeb.in",
+
+  {
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://ameenknejeeb.in",
   "type": "module",
   "scripts": {
     "dev": "vite",
