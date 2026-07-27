@@ -1,4 +1,11 @@
 {
+  "name": "portfolio-root",
+  "private": true,
+  "scripts": {
+    "install": "npm --prefix portfolio ci",
+    "build": "npm --prefix portfolio run build",
+    "start": "npm --prefix portfolio run dev"
+  },
   "dependencies": {
     "react-anchor-link-smooth-scroll": "^1.0.12"
   },
